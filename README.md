@@ -1,6 +1,6 @@
 # Text To Image App
 
-![Text To Image Template Preview](https://imagedelivery.net/wSMYJvS3Xw-n339CbDyDIA/dddfe97e-e689-450b-d5a9-d49801da6a00/public)
+![Text To Image Template Preview](https://static.1994131.xyz/uPic/0FTDxJ.png)
 
 <!-- dash-content-start -->
 
